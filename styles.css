@@ -8,7 +8,7 @@ body {
     flex-wrap:wrap;
 }
 
-.assisgnment {
+.ass-details {
     width:22%
     padding:10px;
     margin:10px;
@@ -17,7 +17,7 @@ body {
     border-radius:5px;
 }
 
-.assignment img {
+.ass-details img {
     width:200px;
     margin:10px;
     border: 4p solid #f9fbfc;
@@ -25,7 +25,7 @@ body {
     margin:auto;
 }
 
-.assignment img:hover {
+.ass-details img:hover {
     border: 4p solid rgb(134, 12, 235)fc;
 }
 
